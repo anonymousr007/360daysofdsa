@@ -1,4 +1,4 @@
-# 300 Days Of Codeforces
+# 365 Days Of Codeforces
 
 | Days | Codeforces Question | Codeforces Link |
 | ---- | ------------------- | --------------- |
