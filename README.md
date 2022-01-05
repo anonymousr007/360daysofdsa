@@ -8,6 +8,7 @@
 
 * [Top 100 Liked Questions](https://leetcode.com/problem-list/93afdecd8402495fa94c8fb4b98be8fd/)
 * [Top 145 Interview Questions](https://leetcode.com/problem-list/93afdecd8402495fa94c8fb4b98be8fd/)
+* [Daily Leetcode Problem](https://github.com/anonymousr007/365daysofleetcode)
 
 | Days. | Problem's Name | Tags | Difficulty |
 | ----- | -------------- | ---- | ---------- |
