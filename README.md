@@ -1,4 +1,4 @@
-# 365 Days Of Codeforces
+# 365 Days Of Data Structures
 
 | Days | Codeforces Question | Codeforces Link | Linkedin Post Link | Tags |
 | ---- | ------------------- | --------------- | ------------------ | ---- |
